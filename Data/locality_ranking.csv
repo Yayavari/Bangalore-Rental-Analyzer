@@ -1,0 +1,219 @@
+Locality,avg_rent,avg_fairness,pct_overpriced,rank
+Amruthahalli,15234.9,98.3,0.0,1
+Akshayanagar,15266.7,98.3,33.3,2
+Bannerughatta,16527.8,98.3,33.3,3
+Basaveswarnagar,18339.9,98.3,0.0,4
+Banaswadi,18340.7,98.3,33.3,5
+Doddakammanahalli,11925.0,98.3,0.0,6
+Dwarka Nagar,10500.0,98.3,33.3,7
+Cooke Town,17666.7,98.3,0.0,8
+Carmelaram,16466.7,98.3,33.3,9
+CV Raman Nagar,15339.7,98.3,0.0,10
+Gottigere,11154.1,98.3,0.0,11
+Padmanabhanagar,13611.1,98.3,33.3,12
+Sarjapur,10916.7,98.3,0.0,13
+Rajajinagar,17362.8,98.3,0.0,14
+Uttarahalli Hobli,15183.3,98.3,33.3,15
+Subramanyapura,13078.7,98.3,33.3,16
+Ullal Uppanagar,12500.0,98.3,0.0,17
+Sunkadakatte,9933.3,98.3,0.0,18
+hongasandra bangalore,14760.9,98.3,33.3,19
+Yelahanka New Town,11856.0,98.3,0.0,20
+Margondanahalli,11750.0,98.3,33.3,21
+Marathahalli,16377.2,98.3,33.3,22
+Kaval Byrasandra,13833.3,98.3,0.0,23
+Kithaganur Colony,12916.7,98.3,0.0,24
+K Channasandra,11250.0,98.3,33.3,25
+Jalahalli East,15166.7,98.3,33.3,26
+RR Nagar,16456.8,98.3,0.0,27
+Jalahalli West,10520.8,98.2,33.3,28
+Kodathi,14825.9,98.2,33.3,29
+Kodihalli on Old Airport Road,15000.0,98.2,33.3,30
+Kudlu,13541.7,98.2,0.0,31
+Kartik Nagar,16575.9,98.2,33.3,32
+Kengeri Satellite Town,9868.9,98.2,0.0,33
+Kammmanhalli,15500.0,98.2,33.3,34
+Kambipura,13760.0,98.2,0.0,35
+K C Krishna Reddy Layout,12766.7,98.2,33.3,36
+Munnekollal,15224.5,98.2,33.3,37
+NRI Layout,14317.5,98.2,0.0,38
+Mailasandra,13777.8,98.2,33.3,39
+Mathikere,14915.5,98.2,33.3,40
+Kothanur,13722.2,98.2,0.0,41
+Kogilu,15583.3,98.2,33.3,42
+Jakkur,17250.0,98.2,33.3,43
+Electronic City Phase 2,13166.7,98.2,33.3,44
+Chamrajpet,12666.7,98.2,0.0,45
+GB Palya,11575.0,98.2,0.0,46
+Hebbal,15767.2,98.2,33.3,47
+Hosakerehalli,12527.8,98.2,0.0,48
+Dooravani Nagar,11175.0,98.2,33.3,49
+Devarachikkana Halli,16250.0,98.2,33.3,50
+Dasanapura,11000.0,98.2,33.3,51
+Vidyaranyapura,12660.0,98.2,33.3,52
+Somasundara Palya,14666.7,98.2,33.3,53
+Talaghattapura,12416.7,98.2,33.3,54
+Ramamurthy Nagar,14845.6,98.2,33.3,55
+Rayasandra,10018.5,98.2,0.0,56
+Neelasandra,14333.3,98.2,33.3,57
+R.K. Hegde Nagar,13375.0,98.2,0.0,58
+Begur,14134.0,98.2,33.3,59
+Chandapura,10408.9,98.2,33.3,60
+Hennur,15085.1,98.2,33.3,61
+BTM Layout,17881.1,98.2,33.3,62
+Banashankari,15106.8,98.2,33.3,63
+Gnana bharathi,9333.3,98.1,33.3,64
+JP Nagar Phase 8,16404.8,98.1,0.0,65
+Attiguppe,13233.3,98.1,0.0,66
+Anjanapura,11583.3,98.1,33.3,67
+Electronics City,16135.2,98.1,33.3,68
+Devinagar,14083.3,98.1,33.3,69
+Dasarahalli,12822.2,98.1,0.0,70
+Choodasandra,5659.7,98.1,0.0,71
+Hulimavu,13961.3,98.1,0.0,72
+Medahalli,10550.3,98.1,0.0,73
+Mullur,13111.1,98.1,33.3,74
+Malleswaram,15803.6,98.1,33.3,75
+Varthur,14219.9,98.1,33.3,76
+Yelahanka,13851.8,98.1,33.3,77
+Kadugondanahalli,12083.3,98.1,33.3,78
+Kamala Nagar,13714.2,98.1,33.3,79
+Krishnarajapura,15494.6,98.1,0.0,80
+Kaggadasapura,13993.8,98.1,0.0,81
+Kengeri,10921.4,98.1,33.3,82
+Marsur,12333.3,98.1,33.3,83
+Basapura,12358.3,98.1,0.0,84
+Kadugodi Industrial Area,11527.8,98.1,33.3,85
+Jigani,12825.0,98.1,33.3,86
+Nagarbhavi,15172.6,98.1,33.3,87
+Kumaraswamy Layout,13659.4,98.1,0.0,88
+Adugodi,11569.1,98.1,33.3,89
+Abbigere,10553.3,98.1,0.0,90
+Jalahalli,14766.7,98.1,33.3,91
+Hoskote,10843.1,98.0,16.7,92
+SMV Layout,12166.7,97.9,33.3,93
+Kanakapura Road Beyond Nice Ring Road,15718.0,97.9,0.0,94
+HBR Layout,16521.5,97.9,0.0,95
+Dasarahalli on Tumkur Road,13832.2,97.8,40.0,96
+JP Nagar Phase 5,14733.3,97.6,33.3,97
+Kadugodi,15603.6,97.6,33.3,98
+Nagavara,17135.6,97.5,33.3,99
+Maruthi Sevanagar,13793.3,97.4,0.0,100
+Narayanapura Hennur Main Road,14833.3,97.3,33.3,101
+Horamavu,18093.1,97.2,33.3,102
+J. P. Nagar,18311.6,97.2,33.3,103
+Singasandra,16202.6,97.2,33.3,104
+Chandra Layout Extension,18505.6,96.7,33.3,105
+Varanasi,13583.3,96.6,33.3,106
+Murugeshpalya,16714.4,96.4,33.3,107
+Jayanagar,17131.4,96.3,0.0,108
+HAL,16791.7,96.3,0.0,109
+R T  Nagar,17152.3,96.2,33.3,110
+KPC Layout,17083.3,96.1,33.3,111
+Whitefield,7359.0,96.1,33.3,112
+RT Nager,14405.6,95.8,33.3,113
+Bommanahalli,17093.7,95.6,16.7,114
+Bennigana Halli,16600.0,95.5,33.3,115
+Thanisandra,13976.6,95.2,33.3,116
+Sai Baba Ashram,17881.0,95.1,0.0,117
+Giri Nagar,20000.0,95.1,0.0,118
+Hanumanthanagar Bangalore,20000.0,94.8,0.0,119
+Hoodi,17592.1,94.5,33.3,120
+Padmanabha Nagar,15500.0,94.5,0.0,121
+Kodigehalli,17333.3,94.4,33.3,122
+Srirampuram,18000.0,94.3,33.3,123
+Kanakapura,13850.0,94.3,33.3,124
+Lingarajapuram,17558.3,94.3,33.3,125
+Basavanagudi,19286.1,94.2,33.3,126
+Doddakannelli,19920.5,94.1,0.0,127
+BTM Layout 2nd Stage,20266.7,93.9,33.3,128
+Kammanahalli,18172.6,93.6,33.3,129
+Bilekahalli,18789.0,93.5,33.3,130
+Doddanekundi,19020.8,93.1,33.3,131
+Parappana Agrahara,16949.5,93.0,33.3,132
+Thavarekere,14195.0,93.0,33.3,133
+Kada Agrahara,16466.7,92.9,0.0,134
+Panathur,17679.9,92.5,0.0,135
+Kadubeesanahalli,18920.0,92.1,0.0,136
+JP Nagar Phase 9,19458.3,91.9,0.0,137
+HSR Layout,12461.9,91.8,0.0,138
+Yemalur,15916.7,91.3,33.3,139
+Annapurneshwari Nagar,18936.5,91.0,33.3,140
+Kasturi Nagar,20333.1,90.8,33.3,141
+Bommenahalli,19583.3,90.5,33.3,142
+Kodihalli,19191.4,90.4,0.0,143
+Sadduguntepalya,18741.2,90.4,33.3,144
+Kannur on Thanisandra Main Road,14899.5,89.8,33.3,145
+Avalahalli Off Sarjapur Road,19666.7,89.6,33.3,146
+JP Nagar Phase 7,19680.5,89.6,33.3,147
+Virupakshapura,17958.3,89.4,33.3,148
+Hosa Road,17227.1,89.3,33.3,149
+Bannerghatta,18631.6,89.2,33.3,150
+Kudlu Gate,16333.3,89.1,33.3,151
+Cox Town,21097.2,88.8,0.0,152
+Konanakunte,18450.0,88.2,33.3,153
+Arakere,19816.3,88.0,33.3,154
+Wilson Garden,18285.7,87.4,33.3,155
+Vibhutipura,18195.2,87.3,33.3,156
+Byrathi,20784.7,86.5,33.3,157
+Dargajogihalli,20344.6,86.2,0.0,158
+Kalyan Nagar,21679.9,85.8,33.3,159
+Murugesh Palya,20055.6,85.6,33.3,160
+Yeshwantpur,19784.9,84.7,33.3,161
+Sarjapur Road,20666.7,84.6,33.3,162
+Nandini Layout,18166.7,84.4,33.3,163
+Laggere,17388.9,84.3,33.3,164
+Brookefield,22985.0,83.5,33.3,165
+Nayandahalli,15308.3,82.8,33.3,166
+Ulsoor,20622.2,82.4,33.3,167
+Panduranga Nagar,21444.4,81.5,33.3,168
+Nagasandra,18666.7,81.3,33.3,169
+hebbal kempapura,19063.5,81.3,33.3,170
+Sanjay Nagar,21902.8,81.1,33.3,171
+Narayanapura on Hennur Main Road,21717.5,80.6,0.0,172
+Banashankari Stage 2nd,23500.0,80.3,0.0,173
+Kasavanahalli,21201.1,79.8,33.3,174
+Harlur,24011.9,79.2,33.3,175
+Ashok Nagar,24583.3,79.2,33.3,176
+New Thippasandra,20159.0,79.1,33.3,177
+Devanahalli,22333.0,78.8,0.0,178
+Jeevan Bima Nagar,24369.0,76.6,33.3,179
+Chikkanayakanahalli at Off Sarjapur,14581.5,75.3,0.0,180
+Kvalasanahalli,23057.5,74.1,0.0,181
+Mahadevapura,24006.6,74.1,33.3,182
+Benson Town,24666.7,73.8,33.3,183
+ITPL,25098.6,73.4,33.3,184
+Whitefield Hope Farm Junction,18791.7,73.3,33.3,185
+Electronic City Phase 1,25750.0,72.2,33.3,186
+Ejipura,25613.8,70.8,33.3,187
+Domlur Layout,26639.0,70.7,33.3,188
+RMV Extension Stage 2,24277.8,70.3,33.3,189
+Srinagar,17331.6,69.2,33.3,190
+Indira Nagar,26139.8,68.9,33.3,191
+Challaghatta,27333.3,68.6,33.3,192
+JP Nagar Phase 1,26789.4,67.3,33.3,193
+Shivaji Nagar,23611.1,67.2,0.0,194
+Bangalore City Municipal Corporation Layout,110250.0,66.7,33.3,195
+Anagalapura Near Hennur Main Road,31500.0,66.7,33.3,196
+Mallathahalli,90111.1,66.7,33.3,197
+Sampigehalli,28166.7,66.7,33.3,198
+Doddaballapur,32000.0,66.7,33.3,199
+Ganganagar,20666.7,65.5,0.0,200
+Budigere Cross,26793.7,64.7,33.3,201
+Jogupalya,29518.5,64.5,33.3,202
+Bellandur,44364.5,64.1,33.3,203
+Sanjaynagar,25901.2,63.7,33.3,204
+Sudhama Nagar,23333.3,62.9,0.0,205
+JP Nagar Phase 6,43416.7,58.0,33.3,206
+Koramangala,31807.8,56.2,33.3,207
+Seshadripuram,25433.3,55.6,33.3,208
+Sampangiram Nagar,25111.1,54.3,33.3,209
+Frazer Town,29936.5,50.2,0.0,210
+Sarjapur Road Wipro To Railway Crossing,24233.7,48.8,33.3,211
+Indiranagar,39388.9,47.5,33.3,212
+Ramagondanahalli,42373.0,45.1,33.3,213
+byatarayanapura,26625.0,45.0,33.3,214
+Shanti Nagar,30785.7,37.3,33.3,215
+Sarjapur Road Post Railway Crossing,32541.7,33.3,33.3,216
+Domlur,37222.2,20.4,0.0,217
+Richmond Town,38888.9,15.1,33.3,218
